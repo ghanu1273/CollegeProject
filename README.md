@@ -12,5 +12,3 @@ This is our college project where we give a beans leaf as an input to the traine
    - Predict Disease – Detect whether the bean leaf is Healthy, Angular Spot, or Bean Rust.
 5. To predict disease, either drag and drop a bean leaf image into the application or browse and select the image from your system.
 6. The prediction result will be displayed on screen with the disease category.
-
-C:\Users\ghana\OneDrive\Desktop\Dev\College Project\Project

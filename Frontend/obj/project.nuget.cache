@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkqVKEzIRgM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghana\\OneDrive\\Desktop\\Dev\\WPF Ver\\DiseaseDetector\\DiseaseDetector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghana\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.cv\\4.12.0.5763\\emgu.cv.4.12.0.5763.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.cv.bitmap\\4.12.0.5763\\emgu.cv.bitmap.4.12.0.5763.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.cv.runtime.windows\\4.12.0.5763\\emgu.cv.runtime.windows.4.12.0.5763.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.44.35207.1\\emgu.runtime.windows.msvc.rt.arm64.19.44.35207.1.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.44.35207.1\\emgu.runtime.windows.msvc.rt.x64.19.44.35207.1.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.44.35207.1\\emgu.runtime.windows.msvc.rt.x86.19.44.35207.1.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\ilmerge\\3.0.40\\ilmerge.3.0.40.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\ghana\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

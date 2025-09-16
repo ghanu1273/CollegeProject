@@ -1,0 +1,5 @@
+Publisher= CSE Project Team - Azanth, Dhanush Krishna, Ghanashyam, Kombiah
+Version= 0.0.1
+ReleaseDate=2025-09-14
+Website=https://example.com
+Description=Leaf Disease Detection App using Emgu CV and ONNX

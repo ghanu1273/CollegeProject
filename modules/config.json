@@ -1,0 +1,76 @@
+{
+  "USE_MODEL": "mobilenetv3",
+  "BEANS_DATASET_PATH": "dataset/Beans_Leaf_dataset",
+  "IMG_SIZE": [
+    224,
+    224
+  ],
+  "BATCH_SIZE": 32,
+  "EPOCHS": 20,
+  "FINE_TUNE_EPOCHS": 10,
+  "CLASSLABELS_PATH": "class_labels.npy",
+  "MODEL_PATH": "models/{USE_MODEL}_beans.keras",
+"DISEASE_INFO": {
+  "healthy": {
+    "name": "Healthy Leaf",
+    "cause": "No disease detected; the leaf is normal and thriving.",
+    "symptoms": "Leaves are green, firm, and free of spots or discoloration.",
+    "cure": [
+      "Maintain optimal sunlight and water for steady growth.",
+      "Apply balanced fertilizers according to soil needs.",
+      "Monitor plants regularly for early pest or disease signs.",
+      "Keep tools and equipment clean to prevent contamination.",
+      "Practice crop rotation to maintain soil health."
+    ],
+    "plant_survival": "Full survival - the plant is already healthy.",
+    "recovery_time": "N/A",
+    "extra_tips": [
+      "Avoid overcrowding plants to reduce stress.",
+      "Keep humidity moderate to discourage fungal growth."
+    ]
+  },
+
+  "angular_leaf_spot": {
+    "name": "Angular Leaf Spot",
+    "cause": "Caused by the fungus Pseudocercospora griseola, which thrives in warm and wet conditions.",
+    "symptoms": "Small angular brown or black spots on leaves, sometimes surrounded by yellow halos. Can cause premature leaf yellowing and dropping.",
+    "cure": [
+      "Inspect plants regularly and remove any leaves showing early signs of infection.",
+      "Avoid overhead watering; water at the base of plants early in the morning.",
+      "Ensure proper spacing between plants to improve air circulation.",
+      "Rotate crops each season to reduce fungal buildup.",
+      "Apply fungicides such as copper-based sprays or chlorothalonil every 7-10 days during wet conditions.",
+      "Disinfect gardening tools after handling infected leaves."
+    ],
+    "plant_survival": "High if treated early; severe infection may reduce yield.",
+    "recovery_time": "2-4 weeks with proper care; healthy new leaves appear after a full growth cycle.",
+    "extra_tips": [
+      "Avoid watering in late evenings to prevent fungal spore development.",
+      "Choose resistant bean varieties if available.",
+      "Mulch soil to reduce splash spread of fungal spores."
+    ]
+  },
+
+  "bean_rust": {
+    "name": "Bean Rust",
+    "cause": "Caused by the fungus Uromyces appendiculatus, which develops under humid conditions.",
+    "symptoms": "Reddish-brown pustules on both leaf surfaces. Severe infection can cause leaf drop and reduced yield.",
+    "cure": [
+      "Prune and remove infected leaves immediately to reduce spore load.",
+      "Maintain at least 30-40 cm spacing between plants for airflow.",
+      "Avoid overhead irrigation; water plants at the base early in the day.",
+      "Apply fungicides such as sulfur or myclobutanil following label instructions.",
+      "Monitor crops weekly for new signs of infection and act promptly.",
+      "Use disease-resistant bean varieties when available.",
+      "Remove plant debris at season end and sanitize gardening tools."
+    ],
+    "plant_survival": "High if treated early; severe infections may lead to partial defoliation but plants can recover.",
+    "recovery_time": "3-5 weeks depending on severity; full recovery linked to new leaf growth.",
+    "extra_tips": [
+      "Avoid dense canopy growth to reduce humidity.",
+      "Ensure good air circulation around the plants.",
+      "Early detection and treatment are critical to prevent spread."
+    ]
+  }
+}
+}
